@@ -1,2 +1,2 @@
 # Dzanic_2026_Results
-This repository includes the corresponding publicly available data for the plotted results presented in the manuscript: Dzanic, Thampi, & Yeomans. (2026) 
+This repository includes the corresponding publicly available data for the plotted results presented in the manuscript: Dzanic, Thampi, Valani & Yeomans. (2026) 
